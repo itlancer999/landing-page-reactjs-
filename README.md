@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Netlify Link
 
-![landing page react JS](https://landing-page-react-js.netlify.app/)
+https://landing-page-react-js.netlify.app
 
 ## Available Scripts
 
