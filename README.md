@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Netlify Link
+
+![landing page react JS](https://landing-page-react-js.netlify.app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
